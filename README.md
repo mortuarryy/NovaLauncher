@@ -1,1 +1,1 @@
-# NovaLauncher
+# NovaLauncher Version yönetimi
